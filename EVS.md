@@ -1,11 +1,6 @@
 SISTEMA DE GESTIÓN DE PROYECTOS INFORMÁTICOS
 
-#
-
 # ESTUDIO DE VIABILIDAD DEL SISTEMA cambiado
-
-#
-
 
 Equipo 2:
 
@@ -16,20 +11,6 @@ Equipo 2:
 | --- | --- | --- | --- |
 | 25/04/2019 | 1.0 | Elaboración | Inicio de la confección del presente documento |
 | 29/04/2019 | 1.0 | Revisado |  Se estudia el documento con el cliente |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-
-
-
-
-
-
-
-
-
-
 
 
 
